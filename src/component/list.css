@@ -1,0 +1,20 @@
+ul{
+    /* margin: 5px; */
+    padding: 4px;
+    list-style: none;
+    
+}
+ul li{
+
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+ul button{
+    margin-left: 15px;
+    
+}
+
+button{
+    width: 130px;
+}

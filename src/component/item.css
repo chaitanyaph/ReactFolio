@@ -1,0 +1,23 @@
+.container{
+
+    width: 100vw;
+    height: 45px;
+    display: flex;
+    background-color: bisque;
+}
+ a{
+    text-decoration: none;
+    color: white ;
+
+}
+button{
+    width: 100px;
+    height: 25px;
+    margin-left: 107px;
+    margin-top: 10px;
+    text-decoration: none;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+}
